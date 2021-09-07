@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Neplasma
-- 👀 I’m interested in Data Science and Mechine Learning.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Science and Mechine Learning
+- But I know nothing about them.
+- 🌱 I’m currently learning Python...from scratch.
 - 📫 How to reach me ... you can reach me on Github.
 
 <!---
