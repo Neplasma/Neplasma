@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Neplasma
-- 👀 I’m interested in Data Science and Mechine Learning
+- 👀 I’m interested in Data Analysis and Automation
 - But I know nothing about them.
-- 🌱 I’m currently learning Python...from scratch.
+- 🌱 I’m currently learning Python and SQL.
+-  
+- Some of my Portfolio Projects:
+- https://github.com/Neplasma/English_Premier_League_Data_Analysis
+- https://github.com/Neplasma/SQL_Sample_Projects
+-     
 - 📫 How to reach me ... you can reach me on Github.
 
 <!---
